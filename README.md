@@ -1,2 +1,2 @@
-# Encryptix-suhas
+
 Projects
